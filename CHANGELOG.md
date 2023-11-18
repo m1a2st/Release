@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/m1a2st/Release/compare/v1.0.0...v1.1.0) (2023-11-18)
+
+
+### Features
+
+* add xxx ([9ca93bc](https://github.com/m1a2st/Release/commit/9ca93bc54a4fdf4ca558e69b58c2b5ffbdb13df7))
+
 # 1.0.0 (2023-11-18)
 
 
